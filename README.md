@@ -1,7 +1,7 @@
 # 薅羊毛共享
 
 # 介绍
-各种薅羊毛的脚本，免费茅台抢购脚本分享
+各种薅羊毛的脚本，免费茅台抢购脚本，AI相关分享
 # 青龙面板教程
 https://mp.weixin.qq.com/s/Cd9msqByCdLNOEyieLkfKg
 # AI绘画
